@@ -1,0 +1,1 @@
+console.log('Create TS module successfully. Start your coding');
