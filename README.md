@@ -11,8 +11,8 @@
 # 用法
 
 ```
-git clone https://github.com/Me-Momo/create-ts-module.git
-npm run create-module <your project name>
+git clone https://github.com/Me-Momo/create-ts-module.git <your project name>
+npm run create-module 
 npm i 
 npm run dev-browser 
 ```
