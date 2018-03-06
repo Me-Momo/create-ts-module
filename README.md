@@ -12,7 +12,7 @@
 
 ```
 git clone https://github.com/Me-Momo/create-ts-module.git <your-project-name>
-npm run create-module
+npm run create-module <your project name>
 npm i 
 npm run dev-browser 
 ```
